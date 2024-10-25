@@ -11,10 +11,7 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['584123989549', 'Anuar⁩', true],
-  ['584123989549'],
-  ['584123989549'],
-  ['584123989549'],
-  ['584123989549']
+  ['56981913990'],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -24,11 +21,11 @@ global.prems = []
    
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫`
-global.author = '{\n "bot": {\n   "name": "𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫",\n     "author": "Anuar",\n   "status_bot": "active"\n }\n}'
-global.wait = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫'
-global.botname = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫'
-global.textbot = `Powered By Sisked`
+global.packname = `𝐁𝐀𝐍𝐃𝐈𝐃𝐀-𝐁𝐎𝐓`
+global.author = '{\n "bot": {\n   "name": "𝐁𝐀𝐍𝐃𝐈𝐃𝐀-𝐁𝐎𝐓",\n     "author": "Bandida",\n   "status_bot": "active"\n }\n}'
+global.wait = '𝐁𝐀𝐍𝐃𝐈𝐃𝐀-𝐁𝐎𝐓'
+global.botname = '𝐁𝐀𝐍𝐃𝐈𝐃𝐀-𝐁𝐎𝐓'
+global.textbot = `Powered By Bandida`
 global.listo = 'Completado ✯'
 global.namechannel = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻'
 global.baileys = '@whiskeysockets/baileys'
