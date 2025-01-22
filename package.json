@@ -18,20 +18,20 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Sisked-Bot/Sisked-Bot",
+  "homepage": "https://github.com/Andrea-Sis/Bandida",
   "author": {
     "name": "Sisked"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sisked-Bot/Sisked-Bot.git"
+    "url": "git+https://github.com/Andrea-Sis/Bandida.git"
   },
   "bugs": {
-    "url": "https://github.com/Sisked-Bot/Sisked-Bot/issues"
+    "url": "https://github.com/Andrea-Sis/Bandida/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-        "@whiskeysockets/baileys": "^6.7.0",
+        "@whiskeysockets/baileys": "github:nstar-y/Bail",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^4.2.4",
         "@bochilteam/scraper-sosmed": "^1.0.5",
